@@ -1,0 +1,6 @@
+C:\Users\Jake & Lanna\Desktop\projects\MethodTest\MethodTest\bin\Debug\MethodTest.exe.config
+C:\Users\Jake & Lanna\Desktop\projects\MethodTest\MethodTest\bin\Debug\MethodTest.exe
+C:\Users\Jake & Lanna\Desktop\projects\MethodTest\MethodTest\bin\Debug\MethodTest.pdb
+C:\Users\Jake & Lanna\Desktop\projects\MethodTest\MethodTest\obj\Debug\MethodTest.csprojResolveAssemblyReference.cache
+C:\Users\Jake & Lanna\Desktop\projects\MethodTest\MethodTest\obj\Debug\MethodTest.exe
+C:\Users\Jake & Lanna\Desktop\projects\MethodTest\MethodTest\obj\Debug\MethodTest.pdb
