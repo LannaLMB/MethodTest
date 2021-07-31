@@ -4,3 +4,10 @@ C:\Users\Jake & Lanna\Desktop\projects\MethodTest\MethodTest\bin\Debug\MethodTes
 C:\Users\Jake & Lanna\Desktop\projects\MethodTest\MethodTest\obj\Debug\MethodTest.csprojResolveAssemblyReference.cache
 C:\Users\Jake & Lanna\Desktop\projects\MethodTest\MethodTest\obj\Debug\MethodTest.exe
 C:\Users\Jake & Lanna\Desktop\projects\MethodTest\MethodTest\obj\Debug\MethodTest.pdb
+C:\Users\Jake & Lanna\Desktop\GC\projects\MethodTest\MethodTest\bin\Debug\MethodTest.exe.config
+C:\Users\Jake & Lanna\Desktop\GC\projects\MethodTest\MethodTest\bin\Debug\MethodTest.exe
+C:\Users\Jake & Lanna\Desktop\GC\projects\MethodTest\MethodTest\bin\Debug\MethodTest.pdb
+C:\Users\Jake & Lanna\Desktop\GC\projects\MethodTest\MethodTest\obj\Debug\MethodTest.csprojAssemblyReference.cache
+C:\Users\Jake & Lanna\Desktop\GC\projects\MethodTest\MethodTest\obj\Debug\MethodTest.csproj.CoreCompileInputs.cache
+C:\Users\Jake & Lanna\Desktop\GC\projects\MethodTest\MethodTest\obj\Debug\MethodTest.exe
+C:\Users\Jake & Lanna\Desktop\GC\projects\MethodTest\MethodTest\obj\Debug\MethodTest.pdb
