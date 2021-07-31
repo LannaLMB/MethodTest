@@ -19,7 +19,7 @@ namespace MethodTest
             Console.WriteLine(result);
 
             // Call PrintNumbers Method
-            PrintNumbers(3);
+            PrintNumbers(1000);
         }
 
         // Method to Return Integer
